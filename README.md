@@ -42,7 +42,7 @@ Mesmo sendo um projeto acadÃªmico da DIO, ele foi desenvolvido com uma organizaÃ
 ## `> entity_relationship_diagram`
 
 <p align="center">
-  <img src="Images/Diagrama.png" width="950" alt="Diagrama relacional do banco de dados da oficina">
+  <img src="images/Diagrama.png" width="950" alt="Diagrama relacional do banco de dados da oficina">
 </p>
 
 ---
@@ -50,7 +50,7 @@ Mesmo sendo um projeto acadÃªmico da DIO, ele foi desenvolvido com uma organizaÃ
 ## `> physical_structure`
 
 <p align="center">
-  <img src="Images/Tabelas.png" width="320" alt="Estrutura das tabelas no MySQL Workbench">
+  <img src="images/Tabelas.png" width="320" alt="Estrutura das tabelas no MySQL Workbench">
 </p>
 
 ---
